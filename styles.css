@@ -39,6 +39,8 @@ body {
   background-repeat: no-repeat;
   background-size: 100% 1093px;
   background-position: center start;
+  background-color: #071629;
+
 }
 
 /* header */
@@ -188,6 +190,7 @@ body {
 
 #videos {
   padding: 87px 0;
+  background-color: #fff;
 }
 
 #videos h1 {
@@ -286,8 +289,7 @@ body {
 
 #membership {
   padding: 70px 0 52px 0;
-  background-color: #071629;
-}
+  }
 
 #membership > h1 {
   text-align: center;
@@ -346,6 +348,7 @@ body {
 
 #faq {
   padding: 67px 0 84px 0;
+  background-color: #fff;
 }
 
 #faq h1 {
@@ -389,7 +392,6 @@ body {
 
 #footer {
   padding: 95px 0 39px 0;
-  background-color: #071629;
 }
 
 #footer .footer-container {
